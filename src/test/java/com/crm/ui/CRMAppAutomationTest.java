@@ -60,7 +60,7 @@ public class CRMAppAutomationTest extends Base {
 		
 		CustomerListPage c = new CustomerListPage(driver);
 		
-		c.getUpdateLink(8).click();
+		c.getUpdateLink(15).click();
 		
 		Thread.sleep(2000);
 		
